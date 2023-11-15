@@ -69,7 +69,11 @@ https://github.com/kysgattu/Pedestrain-Detection-System/assets/42197976/395e06fc
 ## Results
 
 
-https://github.com/kysgattu/Pedestrain-Detection-System/assets/42197976/50b77ca0-dcba-4885-b842-4bb17408ab89
+
+
+https://github.com/kysgattu/Pedestrain-Detection-System/assets/42197976/9d392884-4b89-49e3-8795-f750e2356f84
+
+
 
 
 
