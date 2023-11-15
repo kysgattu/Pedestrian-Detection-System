@@ -39,7 +39,10 @@ The video used during the development and testing of the model is a timelapse vi
 - Frame Rate - 30
 - Timelapse Rate - 1 Hour/minute
 
-https://github.com/kysgattu/Pedestrain-Detection-System/blob/main/Files/sampleVideo.mp4
+
+https://github.com/kysgattu/Pedestrain-Detection-System/assets/42197976/7b929dc9-bdb4-4b71-9ef2-a800f3e86184
+
+
 
 ## Modules<a name='modules'></a>
 
