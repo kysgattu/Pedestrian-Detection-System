@@ -1,8 +1,11 @@
 # Pedestrian Detection System using YOLO
-This project has been built to support Campus Planning Department at Facilities Management in University of Massachusetts Lowell. This project aims to develop a Tool powered by Machine Learning Techniques to count the number of persons walking across certain paths on campus. We have utilised Powerful Deep Learning Algorithm - YOLO(You Only Look Once) developed by Ultralytics for solving the problem of detecting persons in a video file. 
+The Pedestrian Detection System using YOLO is an innovative project designed to assist the Campus Planning Department at Facilities Management in the University of Massachusetts Lowell. The primary objective of this initiative is to create a tool that leverages advanced Machine Learning Techniques, specifically utilizing the potent YOLO (You Only Look Once) Deep Learning Algorithm developed by Ultralytics. The purpose of this tool is to accurately count the number of individuals traversing specific pathways across the university campus.
 
-The tool developed provides with a User Interface which allows you to upload a video and select regions of paths on which the detection needs to be performed and detects, tracks and counts the number of persons passing across the paths.  
+With a user-centric approach, we have crafted a sophisticated User Interface as an integral part of the tool. This interface enables users to effortlessly upload a video and define specific regions along the paths where pedestrian detection is required. The system seamlessly executes the process of detecting, tracking, and tallying the number of individuals traversing these designated pathways.
 
+By incorporating YOLO, renowned for its efficiency in object detection tasks, our system ensures robust and real-time detection capabilities. This translates to a more streamlined and accurate monitoring process, enhancing the overall efficiency of the Campus Planning Department in managing pedestrian flow.
+
+In summary, the Pedestrian Detection System utilizing YOLO stands as a testament to the integration of cutting-edge technology to address practical challenges. By providing a user-friendly interface and leveraging the power of YOLO, this project facilitates the precise and automated counting of pedestrians, thereby contributing to the enhancement of campus planning and management at the University of Massachusetts Lowell.
 
 
 ## Table of Contents
