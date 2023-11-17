@@ -97,10 +97,21 @@ https://github.com/kysgattu/Pedestrain-Detection-System/assets/42197976/395e06fc
 
 ## Developers <a name='developers'></a>
 * [Kamal Yeshodhar Shastry Gattu](https://github.com/kysgattu)
+
 ## Links <a name='links'></a>
-
-GitHub:     [G K Y SHASTRY](https://github.com/kysgattu)
-
-Contact me:     <gkyshastry0502@gmail.com> , <kysgattu0502@gmail.com>
+> GitHub:[G K Y SHASTRY](https://github.com/kysgattu)
+> 
+> [University of Massachusetts Lowell](https://www.uml.edu/)
+> 
+> [Facilites Information Systems - Facilities Management - UMass Lowell](https://www.uml.edu/facilities/planning-design-construction/fis.aspx)
+> 
+> Contact me:     <gkyshastry0502@gmail.com> , <kysgattu0502@gmail.com>
 
 ## References <a name='references'></a>
+
+> - [YOLOv4: Optimal Speed and Accuracy of Object Detection](https://doi.org/10.48550/arXiv.2004.10934)
+>  
+> - [YOLO: Real-Time Object Detection](https://pjreddie.com/darknet/yolo)
+>  
+> - [Ultralytics YOLOv8 Docs](https://docs.ultralytics.com)
+
