@@ -18,8 +18,9 @@ In summary, the Pedestrian Detection System utilizing YOLO stands as a testament
     - [YOLO Model](#yolo)
     - [Working of the Detection Code](#code)
     - [Result Visualisation](#visualisation)
+    - [Result - Annotated Video](#result)
 - [Working Demo](#demo)
-- [Result - Annotated Video](#result)
+
 - [Developers](#developers)
 - [Links](#links)
 - [References](#references)            
@@ -81,16 +82,18 @@ The annotated frames with bounding boxes, tracking information, and ROI overlays
 
 <img width="827" alt="Screenshot 2023-11-15 at 2 39 37 PM" src="https://github.com/kysgattu/Pedestrain-Detection-System/assets/42197976/4a53344a-4714-4553-bc82-a60788eb9d90">
 
+> ### Result - Annotated Video <a name = 'result'> </a>
+The Annotated video with the number of persons in each ROI is showed in the video - 
+
+https://github.com/kysgattu/Pedestrain-Detection-System/assets/42197976/9d392884-4b89-49e3-8795-f750e2356f84
+
+
 ## Working Demo of the Tool <a name = 'demo'></a>
 
 The detailed demo of how the tool can be used is showed in below video - 
 
 https://github.com/kysgattu/Pedestrain-Detection-System/assets/42197976/395e06fc-b10f-4f5c-80f1-ea486e98991b
 
-## Result - Annotated Video <a name = 'result'> </a>
-The Annotated video with the number of persons in each ROI is showed in the video - 
-
-https://github.com/kysgattu/Pedestrain-Detection-System/assets/42197976/9d392884-4b89-49e3-8795-f750e2356f84
 
 ## Developers <a name='developers'></a>
 * [Kamal Yeshodhar Shastry Gattu](https://github.com/kysgattu)
