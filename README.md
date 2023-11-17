@@ -90,7 +90,18 @@ https://github.com/kysgattu/Pedestrain-Detection-System/assets/42197976/9d392884
 
 ## Working Demo of the Tool <a name = 'demo'></a>
 
-A detailed demo of how the tool can be used is shown in below video - 
+##### Step-by-Step Instructions for running the tool
+
+- Browse for the source video and the directory to save the annotated video.
+- Specify the number of regions (paths) for detecting passing pedestrians.
+- Provide names for each region, separated by commas (ensure the number of names matches the specified regions).
+- Hit the "Start Detection" button.
+- Press enter after selecting four points in the window displaying a frame from the video. Repeat this process for each region; the selection windows will pop up automatically based on the specified number of regions.
+- Once the regions are selected, the detection process starts automatically. Note that the progress bar is visible only on the command line.
+- After detection is complete, view the counts of each region in the results box.
+- Keep in mind that only one detection can be performed per code execution. If errors occur or mistakes are made during data entry, restart the app.
+
+*_A detailed demo of how the tool can be used is shown in below video:_*
 
 https://github.com/kysgattu/Pedestrain-Detection-System/assets/42197976/395e06fc-b10f-4f5c-80f1-ea486e98991b
 
