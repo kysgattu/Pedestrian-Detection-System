@@ -44,7 +44,7 @@ The video used during the development and testing of the model is a timelapse vi
 
 - Height - 720
 - Width - 1280
-- Frame Rate - 30
+- Frame Rate - 30 FPS
 - Timelapse Rate - 1 Hour/minute
 
 https://github.com/kysgattu/Pedestrain-Detection-System/assets/42197976/7b929dc9-bdb4-4b71-9ef2-a800f3e86184
@@ -59,9 +59,9 @@ The Front-End UI is a Tkinter Dialog box where
 - Number of Regions of Interest on which the detection has to be performed
 - Names for each Region of Interest
 
-<img width="827" alt="Screenshot 2023-11-16 at 7 35 35 PM" src="https://github.com/kysgattu/Pedestrain-Detection-System/assets/42197976/aa10d33c-d507-4185-a20a-b716902849dc">
+<img width="1280" alt="Screenshot 2023-11-16 at 7 35 35 PM" src="https://github.com/kysgattu/Pedestrain-Detection-System/assets/42197976/aa10d33c-d507-4185-a20a-b716902849dc">
 
-> 
+
 > ### Region Of Interest Selector <a name = 'roi'></a>
 
 Once the Detection button is run, For each Region of Interest a Matplot with a frame from the video pops up on which four points has to be selected which  encloses the detection region.
@@ -80,7 +80,7 @@ The code initiates by configuring parameters like confidence levels, scaling per
 
 The annotated frames with bounding boxes, tracking information, and ROI overlays are stored in an output video and saved for later review. And after processing the entire video, the code prints the number of persons detected and tracked in each ROI in the Tkinter Dialog Box.
 
-<img width="827" alt="Screenshot 2023-11-15 at 2 39 37 PM" src="https://github.com/kysgattu/Pedestrain-Detection-System/assets/42197976/4a53344a-4714-4553-bc82-a60788eb9d90">
+<img width="1280" alt="Screenshot 2023-11-15 at 2 39 37 PM" src="https://github.com/kysgattu/Pedestrain-Detection-System/assets/42197976/4a53344a-4714-4553-bc82-a60788eb9d90">
 
 > ### Result - Annotated Video <a name = 'result'> </a>
 The Annotated video with the number of persons in each ROI is showed in the video - 
