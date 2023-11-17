@@ -85,7 +85,7 @@ The annotated frames with bounding boxes, tracking information, and ROI overlays
 > ### Result - Annotated Video <a name = 'result'> </a>
 The Annotated video with the number of persons in each ROI is shown in the video - 
 
-https://github.com/kysgattu/Pedestrain-Detection-System/assets/42197976/9d392884-4b89-49e3-8795-f750e2356f84
+[Result Video](https://github.com/kysgattu/Pedestrain-Detection-System/assets/42197976/9d392884-4b89-49e3-8795-f750e2356f84)
 
 
 ## Working Demo of the Tool <a name = 'demo'></a>
@@ -103,7 +103,7 @@ https://github.com/kysgattu/Pedestrain-Detection-System/assets/42197976/9d392884
 
 *_A detailed demo of how the tool can be used is shown in below video:_*
 
-https://github.com/kysgattu/Pedestrain-Detection-System/assets/42197976/395e06fc-b10f-4f5c-80f1-ea486e98991b
+[Demo Video](https://github.com/kysgattu/Pedestrain-Detection-System/assets/42197976/395e06fc-b10f-4f5c-80f1-ea486e98991b)
 
 
 ## Developers <a name='developers'></a>
